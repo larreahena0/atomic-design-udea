@@ -1,0 +1,16 @@
+.status {
+    grid-area: status;
+    color: white;
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.status-circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: greenyellow;
+    align-self: center;
+}

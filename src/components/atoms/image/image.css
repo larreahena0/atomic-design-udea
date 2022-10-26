@@ -1,0 +1,7 @@
+.image {
+    grid-area: img;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}

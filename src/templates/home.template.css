@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(32, 35, 41);
+}
+
+header {
+    height: 250px;
+    width: 100%;
+    background-color: #fff;
+    display: grid;
+    place-items: center;
+}
